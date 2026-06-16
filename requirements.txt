@@ -1,0 +1,11 @@
+# OggLooper の依存ライブラリ。
+# 通常はアプリの「準備」ボタンが自動インストールしますが、
+# 手動で入れる場合は: pip install -r requirements.txt
+numpy
+scipy
+matplotlib
+mutagen
+tqdm
+imageio-ffmpeg
+soundfile
+sounddevice
